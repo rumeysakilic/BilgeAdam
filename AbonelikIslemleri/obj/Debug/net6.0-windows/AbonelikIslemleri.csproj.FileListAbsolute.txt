@@ -1,0 +1,17 @@
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\AbonelikIslemleri\bin\Debug\net6.0-windows\AbonelikIslemleri.exe
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\AbonelikIslemleri\bin\Debug\net6.0-windows\AbonelikIslemleri.deps.json
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\AbonelikIslemleri\bin\Debug\net6.0-windows\AbonelikIslemleri.runtimeconfig.json
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\AbonelikIslemleri\bin\Debug\net6.0-windows\AbonelikIslemleri.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\AbonelikIslemleri\bin\Debug\net6.0-windows\AbonelikIslemleri.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\AbonelikIslemleri\obj\Debug\net6.0-windows\AbonelikIslemleri.csproj.AssemblyReference.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\AbonelikIslemleri\obj\Debug\net6.0-windows\AbonelikIslemleri.Form1.resources
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\AbonelikIslemleri\obj\Debug\net6.0-windows\AbonelikIslemleri.csproj.GenerateResource.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\AbonelikIslemleri\obj\Debug\net6.0-windows\AbonelikIslemleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\AbonelikIslemleri\obj\Debug\net6.0-windows\AbonelikIslemleri.AssemblyInfoInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\AbonelikIslemleri\obj\Debug\net6.0-windows\AbonelikIslemleri.AssemblyInfo.cs
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\AbonelikIslemleri\obj\Debug\net6.0-windows\AbonelikIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\AbonelikIslemleri\obj\Debug\net6.0-windows\AbonelikIslemleri.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\AbonelikIslemleri\obj\Debug\net6.0-windows\refint\AbonelikIslemleri.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\AbonelikIslemleri\obj\Debug\net6.0-windows\AbonelikIslemleri.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\AbonelikIslemleri\obj\Debug\net6.0-windows\AbonelikIslemleri.genruntimeconfig.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\AbonelikIslemleri\obj\Debug\net6.0-windows\ref\AbonelikIslemleri.dll

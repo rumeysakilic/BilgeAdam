@@ -1,0 +1,17 @@
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\GorevListesi\bin\Debug\net6.0-windows\GorevListesi.exe
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\GorevListesi\bin\Debug\net6.0-windows\GorevListesi.deps.json
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\GorevListesi\bin\Debug\net6.0-windows\GorevListesi.runtimeconfig.json
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\GorevListesi\bin\Debug\net6.0-windows\GorevListesi.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\GorevListesi\bin\Debug\net6.0-windows\GorevListesi.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\GorevListesi\obj\Debug\net6.0-windows\GorevListesi.csproj.AssemblyReference.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\GorevListesi\obj\Debug\net6.0-windows\GorevListesi.Form1.resources
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\GorevListesi\obj\Debug\net6.0-windows\GorevListesi.csproj.GenerateResource.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\GorevListesi\obj\Debug\net6.0-windows\GorevListesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\GorevListesi\obj\Debug\net6.0-windows\GorevListesi.AssemblyInfoInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\GorevListesi\obj\Debug\net6.0-windows\GorevListesi.AssemblyInfo.cs
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\GorevListesi\obj\Debug\net6.0-windows\GorevListesi.csproj.CoreCompileInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\GorevListesi\obj\Debug\net6.0-windows\GorevListesi.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\GorevListesi\obj\Debug\net6.0-windows\refint\GorevListesi.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\GorevListesi\obj\Debug\net6.0-windows\GorevListesi.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\GorevListesi\obj\Debug\net6.0-windows\GorevListesi.genruntimeconfig.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\GorevListesi\obj\Debug\net6.0-windows\ref\GorevListesi.dll

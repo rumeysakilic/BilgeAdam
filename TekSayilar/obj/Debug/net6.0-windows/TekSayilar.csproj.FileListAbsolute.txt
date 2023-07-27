@@ -1,0 +1,17 @@
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\TekSayilar\bin\Debug\net6.0-windows\TekSayilar.exe
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\TekSayilar\bin\Debug\net6.0-windows\TekSayilar.deps.json
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\TekSayilar\bin\Debug\net6.0-windows\TekSayilar.runtimeconfig.json
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\TekSayilar\bin\Debug\net6.0-windows\TekSayilar.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\TekSayilar\bin\Debug\net6.0-windows\TekSayilar.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\TekSayilar\obj\Debug\net6.0-windows\TekSayilar.csproj.AssemblyReference.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\TekSayilar\obj\Debug\net6.0-windows\TekSayilar.Form1.resources
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\TekSayilar\obj\Debug\net6.0-windows\TekSayilar.csproj.GenerateResource.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\TekSayilar\obj\Debug\net6.0-windows\TekSayilar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\TekSayilar\obj\Debug\net6.0-windows\TekSayilar.AssemblyInfoInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\TekSayilar\obj\Debug\net6.0-windows\TekSayilar.AssemblyInfo.cs
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\TekSayilar\obj\Debug\net6.0-windows\TekSayilar.csproj.CoreCompileInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\TekSayilar\obj\Debug\net6.0-windows\TekSayilar.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\TekSayilar\obj\Debug\net6.0-windows\refint\TekSayilar.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\TekSayilar\obj\Debug\net6.0-windows\TekSayilar.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\TekSayilar\obj\Debug\net6.0-windows\TekSayilar.genruntimeconfig.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\TekSayilar\obj\Debug\net6.0-windows\ref\TekSayilar.dll

@@ -1,0 +1,17 @@
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Ogrenci\bin\Debug\net6.0-windows\Ogrenci.exe
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Ogrenci\bin\Debug\net6.0-windows\Ogrenci.deps.json
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Ogrenci\bin\Debug\net6.0-windows\Ogrenci.runtimeconfig.json
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Ogrenci\bin\Debug\net6.0-windows\Ogrenci.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Ogrenci\bin\Debug\net6.0-windows\Ogrenci.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Ogrenci\obj\Debug\net6.0-windows\Ogrenci.csproj.AssemblyReference.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Ogrenci\obj\Debug\net6.0-windows\Ogrenci.Form1.resources
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Ogrenci\obj\Debug\net6.0-windows\Ogrenci.csproj.GenerateResource.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Ogrenci\obj\Debug\net6.0-windows\Ogrenci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Ogrenci\obj\Debug\net6.0-windows\Ogrenci.AssemblyInfoInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Ogrenci\obj\Debug\net6.0-windows\Ogrenci.AssemblyInfo.cs
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Ogrenci\obj\Debug\net6.0-windows\Ogrenci.csproj.CoreCompileInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Ogrenci\obj\Debug\net6.0-windows\Ogrenci.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Ogrenci\obj\Debug\net6.0-windows\refint\Ogrenci.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Ogrenci\obj\Debug\net6.0-windows\Ogrenci.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Ogrenci\obj\Debug\net6.0-windows\Ogrenci.genruntimeconfig.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Ogrenci\obj\Debug\net6.0-windows\ref\Ogrenci.dll

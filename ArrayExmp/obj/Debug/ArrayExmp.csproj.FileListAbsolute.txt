@@ -1,0 +1,8 @@
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\ArrayExmp\bin\Debug\ArrayExmp.exe.config
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\ArrayExmp\bin\Debug\ArrayExmp.exe
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\ArrayExmp\bin\Debug\ArrayExmp.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\ArrayExmp\obj\Debug\ArrayExmp.csproj.AssemblyReference.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\ArrayExmp\obj\Debug\ArrayExmp.csproj.SuggestedBindingRedirects.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\ArrayExmp\obj\Debug\ArrayExmp.csproj.CoreCompileInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\ArrayExmp\obj\Debug\ArrayExmp.exe
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\ArrayExmp\obj\Debug\ArrayExmp.pdb

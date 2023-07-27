@@ -1,0 +1,17 @@
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Counter\bin\Debug\net6.0-windows\Counter.exe
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Counter\bin\Debug\net6.0-windows\Counter.deps.json
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Counter\bin\Debug\net6.0-windows\Counter.runtimeconfig.json
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Counter\bin\Debug\net6.0-windows\Counter.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Counter\bin\Debug\net6.0-windows\Counter.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Counter\obj\Debug\net6.0-windows\Counter.csproj.AssemblyReference.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Counter\obj\Debug\net6.0-windows\Counter.Form1.resources
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Counter\obj\Debug\net6.0-windows\Counter.csproj.GenerateResource.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Counter\obj\Debug\net6.0-windows\Counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Counter\obj\Debug\net6.0-windows\Counter.AssemblyInfoInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Counter\obj\Debug\net6.0-windows\Counter.AssemblyInfo.cs
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Counter\obj\Debug\net6.0-windows\Counter.csproj.CoreCompileInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Counter\obj\Debug\net6.0-windows\Counter.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Counter\obj\Debug\net6.0-windows\refint\Counter.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Counter\obj\Debug\net6.0-windows\Counter.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Counter\obj\Debug\net6.0-windows\Counter.genruntimeconfig.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Counter\obj\Debug\net6.0-windows\ref\Counter.dll

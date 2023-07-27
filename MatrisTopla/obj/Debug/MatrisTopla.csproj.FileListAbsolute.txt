@@ -1,0 +1,8 @@
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\MatrisTopla\bin\Debug\MatrisTopla.exe.config
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\MatrisTopla\bin\Debug\MatrisTopla.exe
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\MatrisTopla\bin\Debug\MatrisTopla.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\MatrisTopla\obj\Debug\MatrisTopla.csproj.AssemblyReference.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\MatrisTopla\obj\Debug\MatrisTopla.csproj.SuggestedBindingRedirects.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\MatrisTopla\obj\Debug\MatrisTopla.csproj.CoreCompileInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\MatrisTopla\obj\Debug\MatrisTopla.exe
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\MatrisTopla\obj\Debug\MatrisTopla.pdb

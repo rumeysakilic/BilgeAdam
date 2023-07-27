@@ -1,0 +1,8 @@
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\BilgeAdam\bin\Debug\BilgeAdam.exe.config
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\BilgeAdam\bin\Debug\BilgeAdam.exe
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\BilgeAdam\bin\Debug\BilgeAdam.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\BilgeAdam\obj\Debug\BilgeAdam.csproj.AssemblyReference.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\BilgeAdam\obj\Debug\BilgeAdam.csproj.SuggestedBindingRedirects.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\BilgeAdam\obj\Debug\BilgeAdam.csproj.CoreCompileInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\BilgeAdam\obj\Debug\BilgeAdam.exe
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\BilgeAdam\obj\Debug\BilgeAdam.pdb

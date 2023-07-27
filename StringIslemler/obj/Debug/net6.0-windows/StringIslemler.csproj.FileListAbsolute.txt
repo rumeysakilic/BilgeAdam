@@ -1,0 +1,17 @@
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StringIslemler\bin\Debug\net6.0-windows\StringIslemler.exe
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StringIslemler\bin\Debug\net6.0-windows\StringIslemler.deps.json
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StringIslemler\bin\Debug\net6.0-windows\StringIslemler.runtimeconfig.json
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StringIslemler\bin\Debug\net6.0-windows\StringIslemler.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StringIslemler\bin\Debug\net6.0-windows\StringIslemler.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StringIslemler\obj\Debug\net6.0-windows\StringIslemler.csproj.AssemblyReference.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StringIslemler\obj\Debug\net6.0-windows\StringIslemler.Form1.resources
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StringIslemler\obj\Debug\net6.0-windows\StringIslemler.csproj.GenerateResource.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StringIslemler\obj\Debug\net6.0-windows\StringIslemler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StringIslemler\obj\Debug\net6.0-windows\StringIslemler.AssemblyInfoInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StringIslemler\obj\Debug\net6.0-windows\StringIslemler.AssemblyInfo.cs
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StringIslemler\obj\Debug\net6.0-windows\StringIslemler.csproj.CoreCompileInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StringIslemler\obj\Debug\net6.0-windows\StringIslemler.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StringIslemler\obj\Debug\net6.0-windows\refint\StringIslemler.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StringIslemler\obj\Debug\net6.0-windows\StringIslemler.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StringIslemler\obj\Debug\net6.0-windows\StringIslemler.genruntimeconfig.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StringIslemler\obj\Debug\net6.0-windows\ref\StringIslemler.dll

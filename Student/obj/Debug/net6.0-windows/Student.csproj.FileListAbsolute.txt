@@ -1,0 +1,17 @@
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Student\bin\Debug\net6.0-windows\Student.exe
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Student\bin\Debug\net6.0-windows\Student.deps.json
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Student\bin\Debug\net6.0-windows\Student.runtimeconfig.json
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Student\bin\Debug\net6.0-windows\Student.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Student\bin\Debug\net6.0-windows\Student.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Student\obj\Debug\net6.0-windows\Student.csproj.AssemblyReference.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Student\obj\Debug\net6.0-windows\Student.Form1.resources
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Student\obj\Debug\net6.0-windows\Student.csproj.GenerateResource.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Student\obj\Debug\net6.0-windows\Student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Student\obj\Debug\net6.0-windows\Student.AssemblyInfoInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Student\obj\Debug\net6.0-windows\Student.AssemblyInfo.cs
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Student\obj\Debug\net6.0-windows\Student.csproj.CoreCompileInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Student\obj\Debug\net6.0-windows\Student.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Student\obj\Debug\net6.0-windows\refint\Student.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Student\obj\Debug\net6.0-windows\Student.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Student\obj\Debug\net6.0-windows\Student.genruntimeconfig.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Student\obj\Debug\net6.0-windows\ref\Student.dll

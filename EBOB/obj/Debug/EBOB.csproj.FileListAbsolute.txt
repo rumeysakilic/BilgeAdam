@@ -1,0 +1,8 @@
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\EBOB\bin\Debug\EBOB.exe.config
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\EBOB\bin\Debug\EBOB.exe
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\EBOB\bin\Debug\EBOB.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\EBOB\obj\Debug\EBOB.csproj.AssemblyReference.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\EBOB\obj\Debug\EBOB.csproj.SuggestedBindingRedirects.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\EBOB\obj\Debug\EBOB.csproj.CoreCompileInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\EBOB\obj\Debug\EBOB.exe
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\EBOB\obj\Debug\EBOB.pdb

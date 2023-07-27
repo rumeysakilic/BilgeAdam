@@ -1,0 +1,17 @@
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Alarm\bin\Debug\net6.0-windows\Alarm.exe
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Alarm\bin\Debug\net6.0-windows\Alarm.deps.json
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Alarm\bin\Debug\net6.0-windows\Alarm.runtimeconfig.json
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Alarm\bin\Debug\net6.0-windows\Alarm.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Alarm\bin\Debug\net6.0-windows\Alarm.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Alarm\obj\Debug\net6.0-windows\Alarm.csproj.AssemblyReference.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Alarm\obj\Debug\net6.0-windows\Alarm.Form1.resources
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Alarm\obj\Debug\net6.0-windows\Alarm.csproj.GenerateResource.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Alarm\obj\Debug\net6.0-windows\Alarm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Alarm\obj\Debug\net6.0-windows\Alarm.AssemblyInfoInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Alarm\obj\Debug\net6.0-windows\Alarm.AssemblyInfo.cs
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Alarm\obj\Debug\net6.0-windows\Alarm.csproj.CoreCompileInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Alarm\obj\Debug\net6.0-windows\Alarm.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Alarm\obj\Debug\net6.0-windows\refint\Alarm.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Alarm\obj\Debug\net6.0-windows\Alarm.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Alarm\obj\Debug\net6.0-windows\Alarm.genruntimeconfig.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Alarm\obj\Debug\net6.0-windows\ref\Alarm.dll

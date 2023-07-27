@@ -1,0 +1,8 @@
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\VeriTipi1\obj\Debug\VeriTipi1.csproj.AssemblyReference.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\VeriTipi1\obj\Debug\VeriTipi1.csproj.SuggestedBindingRedirects.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\VeriTipi1\obj\Debug\VeriTipi1.csproj.CoreCompileInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\VeriTipi1\bin\Debug\VeriTipi1.exe.config
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\VeriTipi1\bin\Debug\VeriTipi1.exe
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\VeriTipi1\bin\Debug\VeriTipi1.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\VeriTipi1\obj\Debug\VeriTipi1.exe
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\VeriTipi1\obj\Debug\VeriTipi1.pdb

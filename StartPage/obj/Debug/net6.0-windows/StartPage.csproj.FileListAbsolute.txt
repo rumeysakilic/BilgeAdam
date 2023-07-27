@@ -1,0 +1,17 @@
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StartPage\bin\Debug\net6.0-windows\StartPage.exe
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StartPage\bin\Debug\net6.0-windows\StartPage.deps.json
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StartPage\bin\Debug\net6.0-windows\StartPage.runtimeconfig.json
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StartPage\bin\Debug\net6.0-windows\StartPage.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StartPage\bin\Debug\net6.0-windows\StartPage.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StartPage\obj\Debug\net6.0-windows\StartPage.csproj.AssemblyReference.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StartPage\obj\Debug\net6.0-windows\StartPage.Start.resources
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StartPage\obj\Debug\net6.0-windows\StartPage.csproj.GenerateResource.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StartPage\obj\Debug\net6.0-windows\StartPage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StartPage\obj\Debug\net6.0-windows\StartPage.AssemblyInfoInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StartPage\obj\Debug\net6.0-windows\StartPage.AssemblyInfo.cs
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StartPage\obj\Debug\net6.0-windows\StartPage.csproj.CoreCompileInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StartPage\obj\Debug\net6.0-windows\StartPage.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StartPage\obj\Debug\net6.0-windows\refint\StartPage.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StartPage\obj\Debug\net6.0-windows\StartPage.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StartPage\obj\Debug\net6.0-windows\StartPage.genruntimeconfig.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StartPage\obj\Debug\net6.0-windows\ref\StartPage.dll

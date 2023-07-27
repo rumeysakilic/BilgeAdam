@@ -1,0 +1,17 @@
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StokUrun\bin\Debug\net6.0-windows\StokUrun.exe
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StokUrun\bin\Debug\net6.0-windows\StokUrun.deps.json
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StokUrun\bin\Debug\net6.0-windows\StokUrun.runtimeconfig.json
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StokUrun\bin\Debug\net6.0-windows\StokUrun.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StokUrun\bin\Debug\net6.0-windows\StokUrun.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StokUrun\obj\Debug\net6.0-windows\StokUrun.csproj.AssemblyReference.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StokUrun\obj\Debug\net6.0-windows\StokUrun.Form1.resources
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StokUrun\obj\Debug\net6.0-windows\StokUrun.csproj.GenerateResource.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StokUrun\obj\Debug\net6.0-windows\StokUrun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StokUrun\obj\Debug\net6.0-windows\StokUrun.AssemblyInfoInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StokUrun\obj\Debug\net6.0-windows\StokUrun.AssemblyInfo.cs
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StokUrun\obj\Debug\net6.0-windows\StokUrun.csproj.CoreCompileInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StokUrun\obj\Debug\net6.0-windows\StokUrun.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StokUrun\obj\Debug\net6.0-windows\refint\StokUrun.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StokUrun\obj\Debug\net6.0-windows\StokUrun.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StokUrun\obj\Debug\net6.0-windows\StokUrun.genruntimeconfig.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\StokUrun\obj\Debug\net6.0-windows\ref\StokUrun.dll

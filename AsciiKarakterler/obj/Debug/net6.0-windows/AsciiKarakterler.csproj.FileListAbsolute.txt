@@ -1,0 +1,17 @@
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\AsciiKarakterler\bin\Debug\net6.0-windows\AsciiKarakterler.exe
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\AsciiKarakterler\bin\Debug\net6.0-windows\AsciiKarakterler.deps.json
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\AsciiKarakterler\bin\Debug\net6.0-windows\AsciiKarakterler.runtimeconfig.json
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\AsciiKarakterler\bin\Debug\net6.0-windows\AsciiKarakterler.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\AsciiKarakterler\bin\Debug\net6.0-windows\AsciiKarakterler.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\AsciiKarakterler\obj\Debug\net6.0-windows\AsciiKarakterler.csproj.AssemblyReference.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\AsciiKarakterler\obj\Debug\net6.0-windows\AsciiKarakterler.Form1.resources
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\AsciiKarakterler\obj\Debug\net6.0-windows\AsciiKarakterler.csproj.GenerateResource.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\AsciiKarakterler\obj\Debug\net6.0-windows\AsciiKarakterler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\AsciiKarakterler\obj\Debug\net6.0-windows\AsciiKarakterler.AssemblyInfoInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\AsciiKarakterler\obj\Debug\net6.0-windows\AsciiKarakterler.AssemblyInfo.cs
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\AsciiKarakterler\obj\Debug\net6.0-windows\AsciiKarakterler.csproj.CoreCompileInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\AsciiKarakterler\obj\Debug\net6.0-windows\AsciiKarakterler.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\AsciiKarakterler\obj\Debug\net6.0-windows\refint\AsciiKarakterler.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\AsciiKarakterler\obj\Debug\net6.0-windows\AsciiKarakterler.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\AsciiKarakterler\obj\Debug\net6.0-windows\AsciiKarakterler.genruntimeconfig.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\AsciiKarakterler\obj\Debug\net6.0-windows\ref\AsciiKarakterler.dll

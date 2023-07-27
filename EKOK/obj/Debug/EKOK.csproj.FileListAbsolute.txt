@@ -1,0 +1,8 @@
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\EKOK\bin\Debug\EKOK.exe.config
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\EKOK\bin\Debug\EKOK.exe
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\EKOK\bin\Debug\EKOK.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\EKOK\obj\Debug\EKOK.csproj.AssemblyReference.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\EKOK\obj\Debug\EKOK.csproj.SuggestedBindingRedirects.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\EKOK\obj\Debug\EKOK.csproj.CoreCompileInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\EKOK\obj\Debug\EKOK.exe
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\EKOK\obj\Debug\EKOK.pdb

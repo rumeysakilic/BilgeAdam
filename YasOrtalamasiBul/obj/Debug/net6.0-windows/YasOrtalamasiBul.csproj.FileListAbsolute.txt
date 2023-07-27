@@ -1,0 +1,17 @@
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\YasOrtalamasiBul\bin\Debug\net6.0-windows\YasOrtalamasiBul.exe
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\YasOrtalamasiBul\bin\Debug\net6.0-windows\YasOrtalamasiBul.deps.json
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\YasOrtalamasiBul\bin\Debug\net6.0-windows\YasOrtalamasiBul.runtimeconfig.json
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\YasOrtalamasiBul\bin\Debug\net6.0-windows\YasOrtalamasiBul.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\YasOrtalamasiBul\bin\Debug\net6.0-windows\YasOrtalamasiBul.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\YasOrtalamasiBul\obj\Debug\net6.0-windows\YasOrtalamasiBul.csproj.AssemblyReference.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\YasOrtalamasiBul\obj\Debug\net6.0-windows\YasOrtalamasiBul.Form1.resources
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\YasOrtalamasiBul\obj\Debug\net6.0-windows\YasOrtalamasiBul.csproj.GenerateResource.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\YasOrtalamasiBul\obj\Debug\net6.0-windows\YasOrtalamasiBul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\YasOrtalamasiBul\obj\Debug\net6.0-windows\YasOrtalamasiBul.AssemblyInfoInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\YasOrtalamasiBul\obj\Debug\net6.0-windows\YasOrtalamasiBul.AssemblyInfo.cs
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\YasOrtalamasiBul\obj\Debug\net6.0-windows\YasOrtalamasiBul.csproj.CoreCompileInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\YasOrtalamasiBul\obj\Debug\net6.0-windows\YasOrtalamasiBul.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\YasOrtalamasiBul\obj\Debug\net6.0-windows\refint\YasOrtalamasiBul.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\YasOrtalamasiBul\obj\Debug\net6.0-windows\YasOrtalamasiBul.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\YasOrtalamasiBul\obj\Debug\net6.0-windows\YasOrtalamasiBul.genruntimeconfig.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\YasOrtalamasiBul\obj\Debug\net6.0-windows\ref\YasOrtalamasiBul.dll

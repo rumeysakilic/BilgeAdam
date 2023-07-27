@@ -1,0 +1,17 @@
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Siralama\bin\Debug\net6.0-windows\Siralama.exe
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Siralama\bin\Debug\net6.0-windows\Siralama.deps.json
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Siralama\bin\Debug\net6.0-windows\Siralama.runtimeconfig.json
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Siralama\bin\Debug\net6.0-windows\Siralama.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Siralama\bin\Debug\net6.0-windows\Siralama.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Siralama\obj\Debug\net6.0-windows\Siralama.csproj.AssemblyReference.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Siralama\obj\Debug\net6.0-windows\Siralama.Form1.resources
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Siralama\obj\Debug\net6.0-windows\Siralama.csproj.GenerateResource.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Siralama\obj\Debug\net6.0-windows\Siralama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Siralama\obj\Debug\net6.0-windows\Siralama.AssemblyInfoInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Siralama\obj\Debug\net6.0-windows\Siralama.AssemblyInfo.cs
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Siralama\obj\Debug\net6.0-windows\Siralama.csproj.CoreCompileInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Siralama\obj\Debug\net6.0-windows\Siralama.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Siralama\obj\Debug\net6.0-windows\refint\Siralama.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Siralama\obj\Debug\net6.0-windows\Siralama.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Siralama\obj\Debug\net6.0-windows\Siralama.genruntimeconfig.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Siralama\obj\Debug\net6.0-windows\ref\Siralama.dll

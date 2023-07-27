@@ -1,0 +1,17 @@
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\UrunTedarik\bin\Debug\net6.0-windows\UrunTedarik.exe
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\UrunTedarik\bin\Debug\net6.0-windows\UrunTedarik.deps.json
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\UrunTedarik\bin\Debug\net6.0-windows\UrunTedarik.runtimeconfig.json
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\UrunTedarik\bin\Debug\net6.0-windows\UrunTedarik.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\UrunTedarik\bin\Debug\net6.0-windows\UrunTedarik.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\UrunTedarik\obj\Debug\net6.0-windows\UrunTedarik.csproj.AssemblyReference.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\UrunTedarik\obj\Debug\net6.0-windows\UrunTedarik.Form1.resources
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\UrunTedarik\obj\Debug\net6.0-windows\UrunTedarik.csproj.GenerateResource.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\UrunTedarik\obj\Debug\net6.0-windows\UrunTedarik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\UrunTedarik\obj\Debug\net6.0-windows\UrunTedarik.AssemblyInfoInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\UrunTedarik\obj\Debug\net6.0-windows\UrunTedarik.AssemblyInfo.cs
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\UrunTedarik\obj\Debug\net6.0-windows\UrunTedarik.csproj.CoreCompileInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\UrunTedarik\obj\Debug\net6.0-windows\UrunTedarik.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\UrunTedarik\obj\Debug\net6.0-windows\refint\UrunTedarik.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\UrunTedarik\obj\Debug\net6.0-windows\UrunTedarik.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\UrunTedarik\obj\Debug\net6.0-windows\UrunTedarik.genruntimeconfig.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\UrunTedarik\obj\Debug\net6.0-windows\ref\UrunTedarik.dll

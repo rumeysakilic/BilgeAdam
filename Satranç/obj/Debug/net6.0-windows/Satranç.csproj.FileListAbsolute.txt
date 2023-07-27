@@ -1,0 +1,17 @@
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Satranç\obj\Debug\net6.0-windows\Satranç.csproj.AssemblyReference.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Satranç\obj\Debug\net6.0-windows\Satranç.Form1.resources
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Satranç\obj\Debug\net6.0-windows\Satranç.csproj.GenerateResource.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Satranç\obj\Debug\net6.0-windows\Satranç.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Satranç\obj\Debug\net6.0-windows\Satranç.AssemblyInfoInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Satranç\obj\Debug\net6.0-windows\Satranç.AssemblyInfo.cs
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Satranç\obj\Debug\net6.0-windows\Satranç.csproj.CoreCompileInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Satranç\bin\Debug\net6.0-windows\Satranç.exe
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Satranç\bin\Debug\net6.0-windows\Satranç.deps.json
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Satranç\bin\Debug\net6.0-windows\Satranç.runtimeconfig.json
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Satranç\bin\Debug\net6.0-windows\Satranç.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Satranç\bin\Debug\net6.0-windows\Satranç.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Satranç\obj\Debug\net6.0-windows\Satranç.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Satranç\obj\Debug\net6.0-windows\refint\Satranç.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Satranç\obj\Debug\net6.0-windows\Satranç.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Satranç\obj\Debug\net6.0-windows\Satranç.genruntimeconfig.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\Satranç\obj\Debug\net6.0-windows\ref\Satranç.dll
