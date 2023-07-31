@@ -1,0 +1,17 @@
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\HafizaOyunu\bin\Debug\net6.0-windows\HafizaOyunu.exe
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\HafizaOyunu\bin\Debug\net6.0-windows\HafizaOyunu.deps.json
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\HafizaOyunu\bin\Debug\net6.0-windows\HafizaOyunu.runtimeconfig.json
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\HafizaOyunu\bin\Debug\net6.0-windows\HafizaOyunu.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\HafizaOyunu\bin\Debug\net6.0-windows\HafizaOyunu.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\HafizaOyunu\obj\Debug\net6.0-windows\HafizaOyunu.csproj.AssemblyReference.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\HafizaOyunu\obj\Debug\net6.0-windows\HafizaOyunu.Form1.resources
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\HafizaOyunu\obj\Debug\net6.0-windows\HafizaOyunu.csproj.GenerateResource.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\HafizaOyunu\obj\Debug\net6.0-windows\HafizaOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\HafizaOyunu\obj\Debug\net6.0-windows\HafizaOyunu.AssemblyInfoInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\HafizaOyunu\obj\Debug\net6.0-windows\HafizaOyunu.AssemblyInfo.cs
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\HafizaOyunu\obj\Debug\net6.0-windows\HafizaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\HafizaOyunu\obj\Debug\net6.0-windows\HafizaOyunu.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\HafizaOyunu\obj\Debug\net6.0-windows\refint\HafizaOyunu.dll
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\HafizaOyunu\obj\Debug\net6.0-windows\HafizaOyunu.pdb
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\HafizaOyunu\obj\Debug\net6.0-windows\HafizaOyunu.genruntimeconfig.cache
+C:\Users\rumeysa.kilic\Desktop\My Projects\BilgeAdam\HafizaOyunu\obj\Debug\net6.0-windows\ref\HafizaOyunu.dll
